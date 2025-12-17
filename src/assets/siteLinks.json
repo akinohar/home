@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.rrrr.qzz.io/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "域名管理",
+    "link": "https://domain.rrrr.qzz.io/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.163.com/"
   },
   {
     "icon": "Compass",
@@ -21,17 +21,17 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "随机图片",
+    "link": "https://image.rrrr.qzz.io/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "卡号检测",
+    "link": "https://card.rrrr.qzz.io/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "工资便签",
+    "link": "https://bianqian.rrrr.qzz.io/"
   }
 ]
